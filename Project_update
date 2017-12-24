@@ -1,0 +1,4 @@
+Title: Credit card Fraud Detection
+
+Abstract:
+With the great increase in credit card transactions, credit card fraud has increasing excessively in recent years. Hence, it has become imperative that we find a solution to the problem of credit card information security and a method to detect fraudulent credit card transactions. Over the years, many Data Mining techniques have been applied in credit card fraud detection. The focus of this project is to try different model that would attempt to maximally detect credit card fraud and minimizing false positive cases. The major objective would be to apply feature engineering to select key features from the dataset that helps to detect fraudulent transactions the most, and then compare the performance of different machine learning models in terms of the detection accuracy.
